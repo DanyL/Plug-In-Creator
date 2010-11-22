@@ -1,0 +1,13 @@
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\bin\Debug\RockBox-PSGroove Installer - Plug-In creator.exe
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\bin\Debug\RockBox-PSGroove Installer - Plug-In creator.pdb
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\bin\Debug\RockBox-PSGroove Installer - Plug-In creator.xml
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\RockBox-PSGroove Installer - Plug-In creator.exe
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\RockBox-PSGroove Installer - Plug-In creator.xml
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\RockBox-PSGroove Installer - Plug-In creator.pdb
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\RockBox_PSGroove_Installer_Plug_In_creator.Resources.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\RockBox_PSGroove_Installer_Plug_In_creator.Updater.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\bin\Debug\Ionic.Zip.dll
+C:\Users\DanyL\Documents\Visual Studio 2010\Projects\My Project\RockBox-PSGroove Installer - Plug-In creator\RockBox-PSGroove Installer - Plug-In creator\obj\x86\Debug\RockBox_PSGroove_Installer_Plug_In_creator.Plug_In_Creator.resources
